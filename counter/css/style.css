@@ -1,0 +1,33 @@
+.content {
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.counter {
+  height: 70px;
+  width: 300px;
+  display: flex;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count-btn {
+  width: 80%;
+  background: #ff6741;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+.count-num {
+  width: 20%;
+  background-color: #d42f06;
+}
